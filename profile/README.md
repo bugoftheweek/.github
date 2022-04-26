@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+WELCOME! This is our github for code required to do our research. Check out the 
+[1-BUGOFTHEWEEK-Information repository](https://github.com/bugoftheweek/1-BUGOFTHEWEEK-Information) for 
+details about this github organisation and how to navigate the site. Enjoy!
+
+
 <!--
 
 **Here are some ideas to get you started:**
