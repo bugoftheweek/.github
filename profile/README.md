@@ -22,7 +22,7 @@ details about this github organisation and how to navigate the site. Enjoy!
 * Calculating colour distance  
 * K-means clustering  
   
-**Stats**  
+[**General Statistics**](https://github.com/bugoftheweek/General-Statistics)
 * GLM, GLMM  
 * Model averaging  
 * Logistic regressions, binomial tests, others????  
