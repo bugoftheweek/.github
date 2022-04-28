@@ -10,14 +10,14 @@ details about this github organisation and how to navigate the site. Enjoy!
 * Data wrangling with Tidyverse  
 * Clean coding  
   
-**Spectra**  
+[**Spectra**](https://github.com/bugoftheweek/Spectra)
 * Importing and visualizing spectra  
 * Calculating Laura’s set of parameters from spectra  
 * Calculating reflectivity  
 * Visual modelling - not RNL – bee hexagon, flies..   
 * Visual modelling – RNL – examples with tetrachromat, trichromat, different achromatic contrast examples (e.g. with and without oil droplets/ filters)  
    
-**Photos**  
+[**Photos**](https://github.com/bugoftheweek/Photos)
 * Calculating hue, chroma, brightness from photos  
 * Calculating colour distance  
 * K-means clustering  
@@ -27,10 +27,10 @@ details about this github organisation and how to navigate the site. Enjoy!
 * Model averaging  
 * Logistic regressions, binomial tests, others????  
   
-**Data visualization**  
+[**Data visualization**](https://github.com/bugoftheweek/Data-Visualisation)
 * Examples of a bunch of different graphs. e.g. Box plots, violin plots, scatterplots etc  
   
-**Phylogenetic comparative analyses**  
+[**Phylogenetic comparative analyses**](https://github.com/bugoftheweek/Phylogenetic-Comparative-Analyses)
 * Tree importing and pruning  
 * Phylogenetic PCA  
 * PGLS – on MCC and set of trees  
