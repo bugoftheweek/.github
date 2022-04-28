@@ -37,6 +37,13 @@ details about this github organisation and how to navigate the site. Enjoy!
 * Phylogenetic path analysis  
 * Ancestral state estimation  
 
+[**Job Resources**](https://github.com/bugoftheweek/Job-Resources)
+* Cover Letters
+* Job Interviews
+* Job Search
+* Key Selection Criteria
+* Job Resources - outside academia
+
 
 <!--
 
