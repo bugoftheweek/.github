@@ -4,6 +4,39 @@ WELCOME! This is our github for code required to do our research. Check out the
 [1-BUGOFTHEWEEK-Information repository](https://github.com/bugoftheweek/1-BUGOFTHEWEEK-Information) for 
 details about this github organisation and how to navigate the site. Enjoy!
 
+### Repos 
+  
+**R Tips and Tricks**  
+* Data wrangling with Tidyverse  
+* Clean coding  
+  
+**Spectra**  
+* Importing and visualizing spectra  
+* Calculating Laura’s set of parameters from spectra  
+* Calculating reflectivity  
+* Visual modelling - not RNL – bee hexagon, flies..   
+* Visual modelling – RNL – examples with tetrachromat, trichromat, different achromatic contrast examples (e.g. with and without oil droplets/ filters)  
+   
+**Photos**  
+* Calculating hue, chroma, brightness from photos  
+* Calculating colour distance  
+* K-means clustering  
+  
+**Stats**  
+* GLM, GLMM  
+* Model averaging  
+* Logistic regressions, binomial tests, others????  
+  
+**Data visualization**  
+* Examples of a bunch of different graphs. e.g. Box plots, violin plots, scatterplots etc  
+  
+**Phylogenetic comparative analyses**  
+* Tree importing and pruning  
+* Phylogenetic PCA  
+* PGLS – on MCC and set of trees  
+* Phylogenetic path analysis  
+* Ancestral state estimation  
+
 
 <!--
 
