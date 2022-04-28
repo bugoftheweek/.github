@@ -6,7 +6,7 @@ details about this github organisation and how to navigate the site. Enjoy!
 
 ### Repos 
   
-**R Tips and Tricks**  
+[**R Tips and Tricks**}](https://github.com/bugoftheweek/RTips-and-Tricks)
 * Data wrangling with Tidyverse  
 * Clean coding  
   
