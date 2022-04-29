@@ -4,6 +4,8 @@ WELCOME! This is our github for code required to do our research. Check out the
 [1-BUGOFTHEWEEK-Information](https://github.com/bugoftheweek/1-BUGOFTHEWEEK-Information) repository for 
 details about this github organisation and how to navigate the site. Enjoy!
 
+[How to use github](https://luyiwangtw.github.io/BugoftheweekWorkshop/)
+
 ### Repos 
   
 [**R Tips and Tricks**](https://github.com/bugoftheweek/RTips-and-Tricks)
