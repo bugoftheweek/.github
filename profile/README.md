@@ -50,7 +50,7 @@ details about this github organisation and how to navigate the site. Enjoy!
 * Job Resources - outside academia
 
 
-
+--------------------------------------------------------------------
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
