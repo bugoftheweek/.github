@@ -1,11 +1,16 @@
 ## Hi there 👋
 
-WELCOME! This is our github for code required to do our research. Check out the 
-[1-BUGOFTHEWEEK-Information](https://github.com/bugoftheweek/1-BUGOFTHEWEEK-Information) repository for 
-details about this github organisation and how to navigate the site. Enjoy!
+WELCOME! This is our github for code required to do our research. Confused about where to start? We
+have some resources to help you begin!
 
-[How to use github](https://luyiwangtw.github.io/BugoftheweekWorkshop/)
+Check out the [1-BUGOFTHEWEEK-Information](https://github.com/bugoftheweek/1-BUGOFTHEWEEK-Information) 
+repository for details about this github organisation and how to navigate the site.
 
+Go to this [Github website](https://luyiwangtw.github.io/BugoftheweekWorkshop/) to learn more about 
+how to set up github, access a repo and how to create a github website using RMarkdown and Github pages.
+  
+Still have questions? Talk to Amanda, Luyi or Laura :)
+  
 ### Repos 
   
 [**R Tips and Tricks**](https://github.com/bugoftheweek/RTips-and-Tricks)
