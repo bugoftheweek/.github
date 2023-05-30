@@ -6,8 +6,8 @@ have some resources to help you begin!
 Check out the [1-BUGOFTHEWEEK-Information](https://github.com/bugoftheweek/1-BUGOFTHEWEEK-Information) 
 repository for details about this github organisation and how to navigate the site.
 
-If you want to add a script, go to [Create a Script](https://github.com/bugoftheweek/1-BUGOFTHEWEEK-Information/tree/main/Create%20a%20Repo) for details
-of repository structure and how to set up RMarkdown Files.
+If you want to add a script or a repository, go [here](https://github.com/bugoftheweek/1-BUGOFTHEWEEK-Information/tree/main/Create%20a%20Repo) 
+for details of repository structure and how to set up RMarkdown Files.
 
 Go to this [Github website](https://luyiwangtw.github.io/BugoftheweekWorkshop/) to learn more about 
 how to set up github, access a repo and how to create a github website using RMarkdown and Github pages.
