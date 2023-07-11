@@ -26,7 +26,10 @@ Still have questions? Talk to Amanda, Luyi or Laura :)
 * Calculating reflectivity  
 * Visual modelling - not RNL – bee hexagon, flies..   
 * Visual modelling – RNL – examples with tetrachromat, trichromat, different achromatic contrast examples (e.g. with and without oil droplets/ filters)  
-   
+
+[**Climatic data**](https://github.com/bugoftheweek/Climatic-data)
+* Download climatic data from Copernicus
+
 [**Photos**](https://github.com/bugoftheweek/Photos)
 * Calculating hue, chroma, brightness from photos  
 * Calculating colour distance  
