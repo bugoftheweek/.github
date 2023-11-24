@@ -60,4 +60,5 @@ Still have questions? Talk to Amanda, Luyi or Laura :)
 * Key Selection Criteria
 * Job Resources - outside academia
 
-
+[**Job Resources**](https://github.com/bugoftheweek/Supercomputer)
+* Tips on how to use RStudio OOD in Spartan
