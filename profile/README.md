@@ -50,6 +50,9 @@ Still have questions? Talk to Amanda, Luyi or Laura :)
 * Phylogenetic path analysis  
 * Ancestral state estimation  
 
+[**iButton reader code**](https://github.com/bugoftheweek/iButtons)
+* Extract all the iButton files together and create a dataframe
+
 [**Webpage**](https://github.com/bugoftheweek/Webpage)
 * Create a GitHub page using RMarkdown
 
