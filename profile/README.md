@@ -32,6 +32,7 @@ Still have questions? Talk to Amanda, Luyi or Laura :)
 
 [**Climatic data**](https://github.com/bugoftheweek/Climatic-data)
 * Download climatic data from Copernicus
+* [**Get current microclimate data from Silo dataset**](https://github.com/bugoftheweek/Microclimate-data)
 
 [**Photos**](https://github.com/bugoftheweek/Photos)
 * Calculating hue, chroma, brightness from photos  
