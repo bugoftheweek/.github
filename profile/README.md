@@ -27,6 +27,9 @@ Still have questions? Talk to Amanda, Luyi or Laura :)
 * Visual modelling - not RNL – bee hexagon, flies..   
 * Visual modelling – RNL – examples with tetrachromat, trichromat, different achromatic contrast examples (e.g. with and without oil droplets/ filters)  
 
+[**Solar Simulator**](https://github.com/bugoftheweek/Solar-Simulator)
+* Extract heating rate and final temperature from heating curves from solar simulator experiments
+
 [**Climatic data**](https://github.com/bugoftheweek/Climatic-data)
 * Download climatic data from Copernicus
 
